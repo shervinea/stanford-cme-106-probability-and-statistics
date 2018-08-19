@@ -10,4 +10,4 @@ This repository aims at summing up in the same place all the important notions t
 This material is also available on a dedicated [website](https://stanford.edu/~shervine/teaching/cme-106.html), so that you can enjoy reading it from any device.
 
 ## Author
-Shervine Amidi
+Shervine Amidi, TA for CME 106: Intro to Probability and Statistics for Engineers, Stanford University, Winter 2018.
