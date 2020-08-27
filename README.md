@@ -4,10 +4,12 @@ This repository aims at summing up in the same place all the important notions t
 
 ## Content
 #### VIP Cheatsheets
-<a href="https://github.com/shervinea/stanford-cme-106-probability-and-statistics/blob/master/cheatsheet-probability.pdf"><img src="https://stanford.edu/~shervine/teaching/cme-106/illustrations/cover/en-001.png?" alt="Illustration" width="440px"/></a><a href="https://github.com/shervinea/stanford-cme-106-probability-and-statistics/blob/master/cheatsheet-statistics.pdf"><img src="https://stanford.edu/~shervine/teaching/cme-106/illustrations/cover/en-002.png?" alt="Illustration" width="440px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Probability &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Statistics
+|<a href="https://github.com/shervinea/stanford-cme-106-probability-and-statistics/blob/master/cheatsheet-probability.pdf"><img src="https://stanford.edu/~shervine/teaching/cme-106/illustrations/cover/en-001.png?" alt="Illustration" width="330px"/></a>|<a href="https://github.com/shervinea/stanford-cme-106-probability-and-statistics/blob/master/cheatsheet-statistics.pdf"><img src="https://stanford.edu/~shervine/teaching/cme-106/illustrations/cover/en-002.png?" alt="Illustration" width="330px"/></a>|
+|:--:|:--:|
+|Probability|Statistics|
 
 ## Website
 This material is also available on a dedicated [website](https://stanford.edu/~shervine/teaching/cme-106), so that you can enjoy reading it from any device.
 
-## Author
-Shervine Amidi, TA for CME 106: Intro to Probability and Statistics for Engineers, Stanford University, Winter 2018.
+## Authors
+[Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) and [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale Paris, Stanford University)
